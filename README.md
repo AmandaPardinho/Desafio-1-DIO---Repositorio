@@ -25,4 +25,4 @@
 
 ---
 
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/AmandaPardinho)
+[![GitHub SEU NOME]( https://img.shields.io/github/followers/AmandaPardinho?label=follow&style=social)](https://github.com/AmandaPardinho)
